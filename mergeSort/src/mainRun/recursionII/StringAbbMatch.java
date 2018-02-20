@@ -22,10 +22,10 @@ public class StringAbbMatch {
 		
 		String temp = "";
 		
-		if(isDigit(inputArray[down])) {
-			while(isDigit(inputArray[down])) {
-				temp = temp + inputArray[down];
-				down ++;
+		if(isDigit(patternArray[down])) {
+			while(down <= patternArray.length - 1 && isDigit(patternArray[down])  ) {
+				temp = temp + patternArray[down];
+				down++;
 			}
 		
 			int number = Integer.parseInt(temp);

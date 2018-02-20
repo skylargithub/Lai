@@ -1,4 +1,4 @@
-package mainRun;
+package leetCode;
 
 import java.sql.SQLException;
 import java.util.ArrayList;
@@ -122,14 +122,31 @@ public class MainRun {
 	//	System.out.print(treeSum.longest(new int[]{5,2,3,1,9,4,2,1,5,7,8}));
 
 		
-		MaxWaterTrappedI  test = new MaxWaterTrappedI ();
-		System.out.print(test.maxTrapped(new int[]{5,1,4,2,6,3,9,1,4}));
-		
-		
 
+	//	Class71 test = new Class71();
+//		System.out.print(test.simplifyPath("/..."));
 		
 		
+		
+		
+		String aa = new String("...");
+		String bb = "...";
+		System.out.print(aa == bb);
+		
+		ClassNestingArray test = new ClassNestingArray();
+		System.out.print(test.arrayNesting(new int[]{1, 0 ,3, 4, 2}));
+		
+		/*TreeNode root = new TreeNode('1');
+		TreeNode left = new TreeNode('2');
+		root.left = left;
+		Class94 class94 = new Class94();
+		class94.inorderTraversal(root);*/
 	
+		Class451 class451 = new Class451();
+		class451.frequencySort("Aabb");
+		
+		Class76 class76 = new Class76();
+		class76.minWindow("ab", "b");
 	
 }
 	

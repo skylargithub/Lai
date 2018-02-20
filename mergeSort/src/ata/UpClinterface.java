@@ -2,6 +2,10 @@
 * JDBC Stored Procedure ATADB.UPCLINTERFACE
 */
 
+/*	UpClinterface upCliterface = new UpClinterface();
+		int[]    SQLCODE = new int[20];
+		String[] SQLMessage = new String[20];
+		upCliterface.upClinterface("IT", SQLCODE, SQLMessage); */
 package ata;
 
 import java.sql.*;
@@ -18,7 +22,7 @@ public class UpClinterface
     {
       Class.forName("com.ibm.db2.jcc.DB2Driver");
        Connection con = DriverManager.getConnection("jdbc:db2://agencyserver2-it.nwideweb.net:50004/ATADB","atajobu","Wa4Vc3Yp");
-       // Connection con = DriverManager.getConnection("jdbc:db2://ss028029atadbpt.nwie.net:50004/ATADB","atajobu","Wa4Vc3Yp");
+     //   Connection con = DriverManager.getConnection("jdbc:db2://ss028029atadbpt.nwie.net:50004/ATADB","atajobu","Wa4Vc3Yp");
         
         PreparedStatement stmt = null;
         PreparedStatement stmt2 = null;
@@ -32,7 +36,7 @@ public class UpClinterface
         String tracelog = "";
 
 
-        SQLUpdateBatch = "UPDATE ATADB.TB0100 SET RECORD_STATUS = 'A', UPDATE_TS = CURRENT TIMESTAMP WHERE VALUE_CODE = 'CLBatch' ";
+        SQLUpdateBatch = "UPDATE ATADB.TB0100 SET RECORD_STATUS = 'A', UPDATE_TS = CURRENT TIMESTAMP WHERE VALUE_CODE = 'CLTBatch' ";
 
         sqlHeader = "select entry_dt,file_label from atadb.CLTTRAILER WITH UR ";
        

@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<dpim:DPIndividualSubRole xmlns:dpim="http://www.nationwide.com/mdm/dpim"
+	xsi:schemaLocation="http://www.nationwide.com/mdm/dpim dpindividualrole_pmxml.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<dpim:SubRoleSourceIdentifier>00000005:00000557</dpim:SubRoleSourceIdentifier>
+	<dpim:RelatedProducerOrganizationSubRoleLegacyId>00000005</dpim:RelatedProducerOrganizationSubRoleLegacyId>
+	<dpim:IndividualSubRoleAddresseeName>ASHLEY R. PALMER</dpim:IndividualSubRoleAddresseeName>
+	<dpim:SubRoleStatusCode>Cancelled</dpim:SubRoleStatusCode>
+	<dpim:SubRoleEffectiveStartDate>2016-07-29</dpim:SubRoleEffectiveStartDate>
+	<dpim:SubRoleEffectiveEndDate>2016-09-30</dpim:SubRoleEffectiveEndDate>
+	<dpim:LegacyIdentifiers>
+		<dpim:LegacyIdentifier>
+			<dpim:LegacySystemIdentifierSourceCode>AMF</dpim:LegacySystemIdentifierSourceCode>
+			<dpim:LegacySystemIdentifier>0000000500000557</dpim:LegacySystemIdentifier>
+			<dpim:LegacySystemIdentifierTypeCode>Legacy Individual Role Number</dpim:LegacySystemIdentifierTypeCode>
+			<dpim:LegacySystemIdentifierMainSubRoleIndicator>Y</dpim:LegacySystemIdentifierMainSubRoleIndicator>
+		</dpim:LegacyIdentifier>
+	</dpim:LegacyIdentifiers>
+	<dpim:Names>
+		<dpim:Name>
+			<dpim:NameKey>AMF:00000005:00000557</dpim:NameKey>
+			<dpim:FirstName>ASHLEY</dpim:FirstName>
+			<dpim:MiddleName>R</dpim:MiddleName>
+			<dpim:LastName>PALMER</dpim:LastName>
+		</dpim:Name>
+	</dpim:Names>
+	<dpim:PostalAddresses>
+		<dpim:PostalAddress>
+			<dpim:DPAddressKey>AMF:00000005:00000557:Mailing</dpim:DPAddressKey>
+			<dpim:UsageTypeCode>Mailing</dpim:UsageTypeCode>
+			<dpim:AddressLine1>10371 W FLORISSANT AVE</dpim:AddressLine1>
+			<dpim:AddressCity>SAINT LOUIS</dpim:AddressCity>
+			<dpim:AddressStateOrProvince>MO</dpim:AddressStateOrProvince>
+			<dpim:PostalCode>631362108</dpim:PostalCode>
+		</dpim:PostalAddress>
+	</dpim:PostalAddresses>
+	<dpim:Phones>
+		<dpim:Phone>
+			<dpim:DPPhoneKey>AMF:00000005:00000557:Fax:2009/09/29 09:57:06.757713</dpim:DPPhoneKey>
+			<dpim:UsageTypeCode>Fax</dpim:UsageTypeCode>
+			<dpim:PhoneTypeCode>Unknown</dpim:PhoneTypeCode>
+			<dpim:FullPhoneNumber>3145246305</dpim:FullPhoneNumber>
+			<dpim:AreaCode>314</dpim:AreaCode>
+			<dpim:PhoneBody>5246305</dpim:PhoneBody>
+		</dpim:Phone>
+		<dpim:Phone>
+			<dpim:DPPhoneKey>AMF:00000005:00000557:Business Phone:2009/09/29
+				09:57:06.757713</dpim:DPPhoneKey>
+			<dpim:UsageTypeCode>Business Phone</dpim:UsageTypeCode>
+			<dpim:PhoneTypeCode>Unknown</dpim:PhoneTypeCode>
+			<dpim:FullPhoneNumber>3145246300</dpim:FullPhoneNumber>
+			<dpim:AreaCode>314</dpim:AreaCode>
+			<dpim:PhoneBody>5246300</dpim:PhoneBody>
+		</dpim:Phone>
+		<dpim:Phone>
+			<dpim:DPPhoneKey>AMF:00000005:00000557:Personal Phone:</dpim:DPPhoneKey>
+			<dpim:UsageTypeCode>Personal Phone</dpim:UsageTypeCode>
+			<dpim:PhoneTypeCode>Unknown</dpim:PhoneTypeCode>
+			<dpim:FullPhoneNumber>5158643487</dpim:FullPhoneNumber>
+			<dpim:AreaCode>515</dpim:AreaCode>
+			<dpim:PhoneBody>8643487</dpim:PhoneBody>
+		</dpim:Phone>
+	</dpim:Phones>
+	<dpim:EmailAddresses>
+		<dpim:EmailAddress>
+			<dpim:DPEmailKey>AMF:00000005:00000557:Personal</dpim:DPEmailKey>
+			<dpim:UsageTypeCode>Personal Email Address</dpim:UsageTypeCode>
+			<dpim:EmailAddress>palmea4@nationwide.com</dpim:EmailAddress>
+		</dpim:EmailAddress>
+	</dpim:EmailAddresses>
+	<dpim:SubRolePostalAddresses>
+		<dpim:SubRolePostalAddress>
+			<dpim:SubRoleUsageTypeCode>Mailing</dpim:SubRoleUsageTypeCode>
+			<dpim:DPAddressKey>AMF:00000005:00000557:Mailing</dpim:DPAddressKey>
+		</dpim:SubRolePostalAddress>
+	</dpim:SubRolePostalAddresses>
+	<dpim:SubRoleEmailAddresses>
+		<dpim:SubRoleEmailAddress>
+			<dpim:SubRoleUsageTypeCode>Personal Email Address</dpim:SubRoleUsageTypeCode>
+			<dpim:DPEmailKey>AMF:00000005:00000557:Personal</dpim:DPEmailKey>
+		</dpim:SubRoleEmailAddress>
+	</dpim:SubRoleEmailAddresses>
+	<dpim:SubRoleNames>
+		<dpim:SubRoleName>
+			<dpim:SubRoleNameUsageTypeCode>Mailing Name</dpim:SubRoleNameUsageTypeCode>
+			<dpim:NameKey>AMF:00000005:00000557</dpim:NameKey>
+		</dpim:SubRoleName>
+	</dpim:SubRoleNames>
+</dpim:DPIndividualSubRole>
+AMFDPINDIVIDUALSUBROLE<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<dpim:DPIndividualSubRole xmlns:dpim="http://www.nationwide.com/mdm/dpim"
+	xsi:schemaLocation="http://www.nationwide.com/mdm/dpim dpindividualrole_pmxml.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<dpim:SubRoleSourceIdentifier>00000006:00000752</dpim:SubRoleSourceIdentifier>
+	<dpim:RelatedProducerOrganizationSubRoleLegacyId>00000006</dpim:RelatedProducerOrganizationSubRoleLegacyId>
+	<dpim:IndividualSubRoleAddresseeName>MICHAEL W MEYER</dpim:IndividualSubRoleAddresseeName>
+	<dpim:SubRoleStatusCode>Cancelled</dpim:SubRoleStatusCode>
+	<dpim:SubRoleEffectiveStartDate>2000-05-02</dpim:SubRoleEffectiveStartDate>
+	<dpim:SubRoleEffectiveEndDate>2003-11-09</dpim:SubRoleEffectiveEndDate>
+	<dpim:LegacyIdentifiers>
+		<dpim:LegacyIdentifier>
+			<dpim:LegacySystemIdentifierSourceCode>AMF</dpim:LegacySystemIdentifierSourceCode>
+			<dpim:LegacySystemIdentifier>0000000600000752</dpim:LegacySystemIdentifier>
+			<dpim:LegacySystemIdentifierTypeCode>Legacy Individual Role Number</dpim:LegacySystemIdentifierTypeCode>
+			<dpim:LegacySystemIdentifierMainSubRoleIndicator>Y</dpim:LegacySystemIdentifierMainSubRoleIndicator>
+		</dpim:LegacyIdentifier>
+	</dpim:LegacyIdentifiers>
+	<dpim:Names>
+		<dpim:Name>
+			<dpim:NameKey>AMF:00000006:00000752</dpim:NameKey>
+			<dpim:FirstName>MICHAEL</dpim:FirstName>
+			<dpim:MiddleName>W</dpim:MiddleName>
+			<dpim:LastName>MEYER</dpim:LastName>
+		</dpim:Name>
+	</dpim:Names>
+	<dpim:PostalAddresses>
+		<dpim:PostalAddress>
+			<dpim:DPAddressKey>AMF:00000006:00000752:Mailing</dpim:DPAddressKey>
+			<dpim:UsageTypeCode>Mailing</dpim:UsageTypeCode>
+			<dpim:AddressLine1>1200 LOCUST ST</dpim:AddressLine1>
+			<dpim:AddressCity>DES MOINES</dpim:AddressCity>
+			<dpim:AddressStateOrProvince>IA</dpim:AddressStateOrProvince>
+			<dpim:PostalCode>50391</dpim:PostalCode>
+		</dpim:PostalAddress>
+	</dpim:PostalAddresses>
+	<dpim:Phones>
+		<dpim:Phone>
+			<dpim:DPPhoneKey>AMF:00000006:00000752:Business Phone:2007/03/03
+				06:12:09.957783</dpim:DPPhoneKey>
+			<dpim:UsageTypeCode>Business Phone</dpim:UsageTypeCode>
+			<dpim:PhoneTypeCode>Unknown</dpim:PhoneTypeCode>
+			<dpim:FullPhoneNumber>5152804890</dpim:FullPhoneNumber>
+			<dpim:AreaCode>515</dpim:AreaCode>
+			<dpim:PhoneBody>2804890</dpim:PhoneBody>
+		</dpim:Phone>
+	</dpim:Phones>
+	<dpim:SubRolePostalAddresses>
+		<dpim:SubRolePostalAddress>
+			<dpim:SubRoleUsageTypeCode>Mailing</dpim:SubRoleUsageTypeCode>
+			<dpim:DPAddressKey>AMF:00000006:00000752:Mailing</dpim:DPAddressKey>
+		</dpim:SubRolePostalAddress>
+	</dpim:SubRolePostalAddresses>
+	<dpim:SubRoleNames>
+		<dpim:SubRoleName>
+			<dpim:SubRoleNameUsageTypeCode>Mailing Name</dpim:SubRoleNameUsageTypeCode>
+			<dpim:NameKey>AMF:00000006:00000752</dpim:NameKey>
+		</dpim:SubRoleName>
+	</dpim:SubRoleNames>
+</dpim:DPIndividualSubRole>
+AMFDPINDIVIDUALSUBROLE<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<dpim:DPIndividualSubRole xmlns:dpim="http://www.nationwide.com/mdm/dpim"
+	xsi:schemaLocation="http://www.nationwide.com/mdm/dpim dpindividualrole_pmxml.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<dpim:SubRoleSourceIdentifier>00000006:00000754</dpim:SubRoleSourceIdentifier>
+	<dpim:RelatedProducerOrganizationSubRoleLegacyId>00000006</dpim:RelatedProducerOrganizationSubRoleLegacyId>
+	<dpim:IndividualSubRoleAddresseeName>DAVID R WEGNER</dpim:IndividualSubRoleAddresseeName>
+	<dpim:SubRoleStatusCode>Cancelled</dpim:SubRoleStatusCode>
+	<dpim:SubRoleEffectiveStartDate>2000-05-02</dpim:SubRoleEffectiveStartDate>
+	<dpim:SubRoleEffectiveEndDate>2004-01-16</dpim:SubRoleEffectiveEndDate>
+	<dpim:LegacyIdentifiers>
+		<dpim:LegacyIdentifier>
+			<dpim:LegacySystemIdentifierSourceCode>AMF</dpim:LegacySystemIdentifierSourceCode>
+			<dpim:LegacySystemIdentifier>0000000600000754</dpim:LegacySystemIdentifier>
+			<dpim:LegacySystemIdentifierTypeCode>Legacy Individual Role Number</dpim:LegacySystemIdentifierTypeCode>
+			<dpim:LegacySystemIdentifierMainSubRoleIndicator>Y</dpim:LegacySystemIdentifierMainSubRoleIndicator>
+		</dpim:LegacyIdentifier>
+	</dpim:LegacyIdentifiers>
+	<dpim:Names>
+		<dpim:Name>
+			<dpim:NameKey>AMF:00000006:00000754</dpim:NameKey>
+			<dpim:FirstName>DAVID</dpim:FirstName>
+			<dpim:MiddleName>R</dpim:MiddleName>
+			<dpim:LastName>WEGNER</dpim:LastName>
+		</dpim:Name>
+	</dpim:Names>
+	<dpim:PostalAddresses>
+		<dpim:PostalAddress>
+			<dpim:DPAddressKey>AMF:00000006:00000754:Mailing</dpim:DPAddressKey>
+			<dpim:UsageTypeCode>Mailing</dpim:UsageTypeCode>
+			<dpim:AddressLine1>1200 LOCUST ST</dpim:AddressLine1>
+			<dpim:AddressCity>DES MOINES</dpim:AddressCity>
+			<dpim:AddressStateOrProvince>IA</dpim:AddressStateOrProvince>
+			<dpim:PostalCode>50391</dpim:PostalCode>
+		</dpim:PostalAddress>
+	</dpim:PostalAddresses>
+	<dpim:Phones>
+		<dpim:Phone>
+			<dpim:DPPhoneKey>AMF:00000006:00000754:Business Phone:2007/03/03
+				06:12:09.957783</dpim:DPPhoneKey>
+			<dpim:UsageTypeCode>Business Phone</dpim:UsageTypeCode>
+			<dpim:PhoneTypeCode>Unknown</dpim:PhoneTypeCode>
+			<dpim:FullPhoneNumber>5152804890</dpim:FullPhoneNumber>
+			<dpim:AreaCode>515</dpim:AreaCode>
+			<dpim:PhoneBody>2804890</dpim:PhoneBody>
+		</dpim:Phone>
+	</dpim:Phones>
+	<dpim:SubRolePostalAddresses>
+		<dpim:SubRolePostalAddress>
+			<dpim:SubRoleUsageTypeCode>Mailing</dpim:SubRoleUsageTypeCode>
+			<dpim:DPAddressKey>AMF:00000006:00000754:Mailing</dpim:DPAddressKey>
+		</dpim:SubRolePostalAddress>
+	</dpim:SubRolePostalAddresses>
+	<dpim:SubRoleNames>
+		<dpim:SubRoleName>
+			<dpim:SubRoleNameUsageTypeCode>Mailing Name</dpim:SubRoleNameUsageTypeCode>
+			<dpim:NameKey>AMF:00000006:00000754</dpim:NameKey>
+		</dpim:SubRoleName>
+	</dpim:SubRoleNames>
+</dpim:DPIndividualSubRole>
+AMFDPINDIVIDUALSUBROLE<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<dpim:DPIndividualSubRole xmlns:dpim="http://www.nationwide.com/mdm/dpim"
+	xsi:schemaLocation="http://www.nationwide.com/mdm/dpim dpindividualrole_pmxml.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<dpim:SubRoleSourceIdentifier>00000009:00000012</dpim:SubRoleSourceIdentifier>
+	<dpim:RelatedProducerOrganizationSubRoleLegacyId>00000009</dpim:RelatedProducerOrganizationSubRoleLegacyId>
+	<dpim:IndividualSubRoleAddresseeName>SHELLEY A SMITH</dpim:IndividualSubRoleAddresseeName>
+	<dpim:SubRoleStatusCode>Cancelled</dpim:SubRoleStatusCode>
+	<dpim:SubRoleEffectiveStartDate>2007-04-24</dpim:SubRoleEffectiveStartDate>
+	<dpim:SubRoleEffectiveEndDate>2017-06-26</dpim:SubRoleEffectiveEndDate>
+	<dpim:LegacyIdentifiers>
+		<dpim:LegacyIdentifier>
+			<dpim:LegacySystemIdentifierSourceCode>AMF</dpim:LegacySystemIdentifierSourceCode>
+			<dpim:LegacySystemIdentifier>0000000900000012</dpim:LegacySystemIdentifier>
+			<dpim:LegacySystemIdentifierTypeCode>Legacy Individual Role Number</dpim:LegacySystemIdentifierTypeCode>
+			<dpim:LegacySystemIdentifierMainSubRoleIndicator>Y</dpim:LegacySystemIdentifierMainSubRoleIndicator>
+		</dpim:LegacyIdentifier>
+	</dpim:LegacyIdentifiers>
+	<dpim:Names>
+		<dpim:Name>
+			<dpim:NameKey>AMF:00000009:00000012</dpim:NameKey>
+			<dpim:FirstName>SHELLEY</dpim:FirstName>
+			<dpim:MiddleName>A</dpim:MiddleName>
+			<dpim:LastName>SMITH</dpim:LastName>
+		</dpim:Name>
+	</dpim:Names>
+	<dpim:PostalAddresses>
+		<dpim:PostalAddress>
+			<dpim:DPAddressKey>AMF:00000009:00000012:Mailing</dpim:DPAddressKey>
+			<dpim:UsageTypeCode>Mailing</dpim:UsageTypeCode>
+			<dpim:AddressLine1>PO BOX 9</dpim:AddressLine1>
+			<dpim:AddressCity>ARNOLD</dpim:AddressCity>
+			<dpim:AddressStateOrProvince>NE</dpim:AddressStateOrProvince>
+			<dpim:PostalCode>691200009</dpim:PostalCode>
+		</dpim:PostalAddress>
+	</dpim:PostalAddresses>
+	<dpim:Phones>
+		<dpim:Phone>
+			<dpim:DPPhoneKey>AMF:00000009:00000012:Fax:2007/03/03 06:12:10.009761</dpim:DPPhoneKey>
+			<dpim:UsageTypeCode>Fax</dpim:UsageTypeCode>
+			<dpim:PhoneTypeCode>Unknown</dpim:PhoneTypeCode>
+			<dpim:FullPhoneNumber>3088482291</dpim:FullPhoneNumber>
+			<dpim:AreaCode>308</dpim:AreaCode>
+			<dpim:PhoneBody>8482291</dpim:PhoneBody>
+		</dpim:Phone>
+		<dpim:Phone>
+			<dpim:DPPhoneKey>AMF:00000009:00000012:Business Phone:2007/03/03
+				06:12:10.009761</dpim:DPPhoneKey>
+			<dpim:UsageTypeCode>Business Phone</dpim:UsageTypeCode>
+			<dpim:PhoneTypeCode>Unknown</dpim:PhoneTypeCode>
+			<dpim:FullPhoneNumber>3088482215</dpim:FullPhoneNumber>
+			<dpim:AreaCode>308</dpim:AreaCode>
+			<dpim:PhoneBody>8482215</dpim:PhoneBody>
+		</dpim:Phone>
+	</dpim:Phones>
+	<dpim:SubRolePostalAddresses>
+		<dpim:SubRolePostalAddress>
+			<dpim:SubRoleUsageTypeCode>Mailing</dpim:SubRoleUsageTypeCode>
+			<dpim:DPAddressKey>AMF:00000009:00000012:Mailing</dpim:DPAddressKey>
+		</dpim:SubRolePostalAddress>
+	</dpim:SubRolePostalAddresses>
+	<dpim:SubRoleNames>
+		<dpim:SubRoleName>
+			<dpim:SubRoleNameUsageTypeCode>Mailing Name</dpim:SubRoleNameUsageTypeCode>
+			<dpim:NameKey>AMF:00000009:00000012</dpim:NameKey>
+		</dpim:SubRoleName>
+	</dpim:SubRoleNames>
+</dpim:DPIndividualSubRole>
+AMFDPINDIVIDUALSUBROLE<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<dpim:DPIndividualSubRole xmlns:dpim="http://www.nationwide.com/mdm/dpim"
+	xsi:schemaLocation="http://www.nationwide.com/mdm/dpim dpindividualrole_pmxml.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<dpim:SubRoleSourceIdentifier>00000041:00000693</dpim:SubRoleSourceIdentifier>
+	<dpim:RelatedProducerOrganizationSubRoleLegacyId>00000041</dpim:RelatedProducerOrganizationSubRoleLegacyId>
+	<dpim:IndividualSubRoleAddresseeName>TRAVIS CHRISTIAN HODGES</dpim:IndividualSubRoleAddresseeName>
+	<dpim:SubRoleStatusCode>Active</dpim:SubRoleStatusCode>
+	<dpim:SubRoleEffectiveStartDate>2012-11-01</dpim:SubRoleEffectiveStartDate>
+	<dpim:LegacyIdentifiers>
+		<dpim:LegacyIdentifier>
+			<dpim:LegacySystemIdentifierSourceCode>AMF</dpim:LegacySystemIdentifierSourceCode>
+			<dpim:LegacySystemIdentifier>0000004100000693</dpim:LegacySystemIdentifier>
+			<dpim:LegacySystemIdentifierTypeCode>Legacy Individual Role Number</dpim:LegacySystemIdentifierTypeCode>
+			<dpim:LegacySystemIdentifierMainSubRoleIndicator>Y</dpim:LegacySystemIdentifierMainSubRoleIndicator>
+		</dpim:LegacyIdentifier>
+	</dpim:LegacyIdentifiers>
+	<dpim:Names>
+		<dpim:Name>
+			<dpim:NameKey>AMF:00000041:00000693</dpim:NameKey>
+			<dpim:FirstName>TRAVIS</dpim:FirstName>
+			<dpim:MiddleName>CHRISTIAN</dpim:MiddleName>
+			<dpim:LastName>HODGES</dpim:LastName>
+		</dpim:Name>
+	</dpim:Names>
+	<dpim:PostalAddresses>
+		<dpim:PostalAddress>
+			<dpim:DPAddressKey>AMF:00000041:00000693:Mailing</dpim:DPAddressKey>
+			<dpim:UsageTypeCode>Mailing</dpim:UsageTypeCode>
+			<dpim:AddressLine1>PO BOX 974</dpim:AddressLine1>
+			<dpim:AddressCity>DES MOINES</dpim:AddressCity>
+			<dpim:AddressStateOrProvince>IA</dpim:AddressStateOrProvince>
+			<dpim:PostalCode>503060974</dpim:PostalCode>
+		</dpim:PostalAddress>
+	</dpim:PostalAddresses>
+	<dpim:Phones>
+		<dpim:Phone>
+			<dpim:DPPhoneKey>AMF:00000041:00000693:Business Phone:2007/03/03
+				06:12:10.625714</dpim:DPPhoneKey>
+			<dpim:UsageTypeCode>Business Phone</dpim:UsageTypeCode>
+			<dpim:PhoneTypeCode>Unknown</dpim:PhoneTypeCode>
+			<dpim:FullPhoneNumber>8002470363</dpim:FullPhoneNumber>
+			<dpim:AreaCode>800</dpim:AreaCode>
+			<dpim:PhoneBody>2470363</dpim:PhoneBody>
+		</dpim:Phone>
+		<dpim:Phone>
+			<dpim:DPPhoneKey>AMF:00000041:00000693:Personal Phone:</dpim:DPPhoneKey>
+			<dpim:UsageTypeCode>Personal Phone</dpim:UsageTypeCode>
+			<dpim:PhoneTypeCode>Unknown</dpim:PhoneTypeCode>
+			<dpim:FullPhoneNumber>8004211444</dpim:FullPhoneNumber>
+			<dpim:AreaCode>800</dpim:AreaCode>
+			<dpim:PhoneBody>4211444</dpim:PhoneBody>
+		</dpim:Phone>
+	</dpim:Phones>
+	<dpim:EmailAddresses>
+		<dpim:EmailAddress>
+			<dpim:DPEmailKey>AMF:00000041:00000693:Personal</dpim:DPEmailKey>
+			<dpim:UsageTypeCode>Personal Email Address</dpim:UsageTypeCode>
+			<dpim:EmailAddress>NSSMAIL@nationwide.com</dpim:EmailAddress>
+		</dpim:EmailAddress>
+	</dpim:EmailAddresses>
+	<dpim:SubRolePostalAddresses>
+		<dpim:SubRolePostalAddress>
+			<dpim:SubRoleUsageTypeCode>Mailing</dpim:SubRoleUsageTypeCode>
+			<dpim:DPAddressKey>AMF:00000041:00000693:Mailing</dpim:DPAddressKey>
+		</dpim:SubRolePostalAddress>
+	</dpim:SubRolePostalAddresses>
+	<dpim:SubRoleEmailAddresses>
+		<dpim:SubRoleEmailAddress>
+			<dpim:SubRoleUsageTypeCode>Personal Email Address</dpim:SubRoleUsageTypeCode>
+			<dpim:DPEmailKey>AMF:00000041:00000693:Personal</dpim:DPEmailKey>
+		</dpim:SubRoleEmailAddress>
+	</dpim:SubRoleEmailAddresses>
+	<dpim:SubRoleNames>
+		<dpim:SubRoleName>
+			<dpim:SubRoleNameUsageTypeCode>Mailing Name</dpim:SubRoleNameUsageTypeCode>
+			<dpim:NameKey>AMF:00000041:00000693</dpim:NameKey>
+		</dpim:SubRoleName>
+	</dpim:SubRoleNames>
+</dpim:DPIndividualSubRole>
+AMFDPINDIVIDUALSUBROLE<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<dpim:DPIndividualSubRole xmlns:dpim="http://www.nationwide.com/mdm/dpim"
+	xsi:schemaLocation="http://www.nationwide.com/mdm/dpim dpindividualrole_pmxml.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<dpim:SubRoleSourceIdentifier>00000158:00000693</dpim:SubRoleSourceIdentifier>
+	<dpim:RelatedProducerOrganizationSubRoleLegacyId>00000158</dpim:RelatedProducerOrganizationSubRoleLegacyId>
+	<dpim:IndividualSubRoleAddresseeName>TRAVIS CHRISTIAN HODGES</dpim:IndividualSubRoleAddresseeName>
+	<dpim:SubRoleStatusCode>Active</dpim:SubRoleStatusCode>
+	<dpim:SubRoleEffectiveStartDate>2012-11-01</dpim:SubRoleEffectiveStartDate>
+	<dpim:LegacyIdentifiers>
+		<dpim:LegacyIdentifier>
+			<dpim:LegacySystemIdentifierSourceCode>AMF</dpim:LegacySystemIdentifierSourceCode>
+			<dpim:LegacySystemIdentifier>0000015800000693</dpim:LegacySystemIdentifier>
+			<dpim:LegacySystemIdentifierTypeCode>Legacy Individual Role Number</dpim:LegacySystemIdentifierTypeCode>
+			<dpim:LegacySystemIdentifierMainSubRoleIndicator>Y</dpim:LegacySystemIdentifierMainSubRoleIndicator>
+		</dpim:LegacyIdentifier>
+	</dpim:LegacyIdentifiers>
+	<dpim:Names>
+		<dpim:Name>
+			<dpim:NameKey>AMF:00000158:00000693</dpim:NameKey>
+			<dpim:FirstName>TRAVIS</dpim:FirstName>
+			<dpim:MiddleName>CHRISTIAN</dpim:MiddleName>
+			<dpim:LastName>HODGES</dpim:LastName>
+		</dpim:Name>
+	</dpim:Names>
+	<dpim:PostalAddresses>
+		<dpim:PostalAddress>
+			<dpim:DPAddressKey>AMF:00000158:00000693:Mailing</dpim:DPAddressKey>
+			<dpim:UsageTypeCode>Mailing</dpim:UsageTypeCode>
+			<dpim:AddressLine1>PO BOX 80758</dpim:AddressLine1>
+			<dpim:AddressCity>LINCOLN</dpim:AddressCity>
+			<dpim:AddressStateOrProvince>NE</dpim:AddressStateOrProvince>
+			<dpim:PostalCode>68501</dpim:PostalCode>
+		</dpim:PostalAddress>
+	</dpim:PostalAddresses>
+	<dpim:Phones>
+		<dpim:Phone>
+			<dpim:DPPhoneKey>AMF:00000158:00000693:Personal Phone:</dpim:DPPhoneKey>
+			<dpim:UsageTypeCode>Personal Phone</dpim:UsageTypeCode>
+			<dpim:PhoneTypeCode>Unknown</dpim:PhoneTypeCode>
+			<dpim:FullPhoneNumber>8004211444</dpim:FullPhoneNumber>
+			<dpim:AreaCode>800</dpim:AreaCode>
+			<dpim:PhoneBody>4211444</dpim:PhoneBody>
+		</dpim:Phone>
+	</dpim:Phones>
+	<dpim:EmailAddresses>
+		<dpim:EmailAddress>
+			<dpim:DPEmailKey>AMF:00000158:00000693:Personal</dpim:DPEmailKey>
+			<dpim:UsageTypeCode>Personal Email Address</dpim:UsageTypeCode>
+			<dpim:EmailAddress>NSSMAIL@nationwide.com</dpim:EmailAddress>
+		</dpim:EmailAddress>
+	</dpim:EmailAddresses>
+	<dpim:SubRolePostalAddresses>
+		<dpim:SubRolePostalAddress>
+			<dpim:SubRoleUsageTypeCode>Mailing</dpim:SubRoleUsageTypeCode>
+			<dpim:DPAddressKey>AMF:00000158:00000693:Mailing</dpim:DPAddressKey>
+		</dpim:SubRolePostalAddress>
+	</dpim:SubRolePostalAddresses>
+	<dpim:SubRoleEmailAddresses>
+		<dpim:SubRoleEmailAddress>
+			<dpim:SubRoleUsageTypeCode>Personal Email Address</dpim:SubRoleUsageTypeCode>
+			<dpim:DPEmailKey>AMF:00000158:00000693:Personal</dpim:DPEmailKey>
+		</dpim:SubRoleEmailAddress>
+	</dpim:SubRoleEmailAddresses>
+	<dpim:SubRoleNames>
+		<dpim:SubRoleName>
+			<dpim:SubRoleNameUsageTypeCode>Mailing Name</dpim:SubRoleNameUsageTypeCode>
+			<dpim:NameKey>AMF:00000158:00000693</dpim:NameKey>
+		</dpim:SubRoleName>
+	</dpim:SubRoleNames>
+</dpim:DPIndividualSubRole>
+AMFDPINDIVIDUALSUBROLE<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<dpim:DPIndividualSubRole xmlns:dpim="http://www.nationwide.com/mdm/dpim"
+	xsi:schemaLocation="http://www.nationwide.com/mdm/dpim dpindividualrole_pmxml.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<dpim:SubRoleSourceIdentifier>00000175:00000693</dpim:SubRoleSourceIdentifier>
+	<dpim:RelatedProducerOrganizationSubRoleLegacyId>00000175</dpim:RelatedProducerOrganizationSubRoleLegacyId>
+	<dpim:IndividualSubRoleAddresseeName>TRAVIS CHRISTIAN HODGES</dpim:IndividualSubRoleAddresseeName>
+	<dpim:SubRoleStatusCode>Active</dpim:SubRoleStatusCode>
+	<dpim:SubRoleEffectiveStartDate>2012-11-01</dpim:SubRoleEffectiveStartDate>
+	<dpim:LegacyIdentifiers>
+		<dpim:LegacyIdentifier>
+			<dpim:LegacySystemIdentifierSourceCode>AMF</dpim:LegacySystemIdentifierSourceCode>
+			<dpim:LegacySystemIdentifier>0000017500000693</dpim:LegacySystemIdentifier>
+			<dpim:LegacySystemIdentifierTypeCode>Legacy Individual Role Number</dpim:LegacySystemIdentifierTypeCode>
+			<dpim:LegacySystemIdentifierMainSubRoleIndicator>Y</dpim:LegacySystemIdentifierMainSubRoleIndicator>
+		</dpim:LegacyIdentifier>
+	</dpim:LegacyIdentifiers>
+	<dpim:Names>
+		<dpim:Name>
+			<dpim:NameKey>AMF:00000175:00000693</dpim:NameKey>
+			<dpim:FirstName>TRAVIS</dpim:FirstName>
+			<dpim:MiddleName>CHRISTIAN</dpim:MiddleName>
+			<dpim:LastName>HODGES</dpim:LastName>
+		</dpim:Name>
+	</dpim:Names>
+	<dpim:PostalAddresses>
+		<dpim:PostalAddress>
+			<dpim:DPAddressKey>AMF:00000175:00000693:Mailing</dpim:DPAddressKey>
+			<dpim:UsageTypeCode>Mailing</dpim:UsageTypeCode>
+			<dpim:AddressLine1>PO BOX 974</dpim:AddressLine1>
+			<dpim:AddressCity>DES MOINES</dpim:AddressCity>
+			<dpim:AddressStateOrProvince>IA</dpim:AddressStateOrProvince>
+			<dpim:PostalCode>503040974</dpim:PostalCode>
+		</dpim:PostalAddress>
+	</dpim:PostalAddresses>
+	<dpim:Phones>
+		<dpim:Phone>
+			<dpim:DPPhoneKey>AMF:00000175:00000693:Personal Phone:</dpim:DPPhoneKey>
+			<dpim:UsageTypeCode>Personal Phone</dpim:UsageTypeCode>
+			<dpim:PhoneTypeCode>Unknown</dpim:PhoneTypeCode>
+			<dpim:FullPhoneNumber>8004211444</dpim:FullPhoneNumber>
+			<dpim:AreaCode>800</dpim:AreaCode>
+			<dpim:PhoneBody>4211444</dpim:PhoneBody>
+		</dpim:Phone>
+	</dpim:Phones>
+	<dpim:EmailAddresses>
+		<dpim:EmailAddress>
+			<dpim:DPEmailKey>AMF:00000175:00000693:Personal</dpim:DPEmailKey>
+			<dpim:UsageTypeCode>Personal Email Address</dpim:UsageTypeCode>
+			<dpim:EmailAddress>NSSMAIL@nationwide.com</dpim:EmailAddress>
+		</dpim:EmailAddress>
+	</dpim:EmailAddresses>
+	<dpim:SubRolePostalAddresses>
+		<dpim:SubRolePostalAddress>
+			<dpim:SubRoleUsageTypeCode>Mailing</dpim:SubRoleUsageTypeCode>
+			<dpim:DPAddressKey>AMF:00000175:00000693:Mailing</dpim:DPAddressKey>
+		</dpim:SubRolePostalAddress>
+	</dpim:SubRolePostalAddresses>
+	<dpim:SubRoleEmailAddresses>
+		<dpim:SubRoleEmailAddress>
+			<dpim:SubRoleUsageTypeCode>Personal Email Address</dpim:SubRoleUsageTypeCode>
+			<dpim:DPEmailKey>AMF:00000175:00000693:Personal</dpim:DPEmailKey>
+		</dpim:SubRoleEmailAddress>
+	</dpim:SubRoleEmailAddresses>
+	<dpim:SubRoleNames>
+		<dpim:SubRoleName>
+			<dpim:SubRoleNameUsageTypeCode>Mailing Name</dpim:SubRoleNameUsageTypeCode>
+			<dpim:NameKey>AMF:00000175:00000693</dpim:NameKey>
+		</dpim:SubRoleName>
+	</dpim:SubRoleNames>
+</dpim:DPIndividualSubRole>
+AMFDPINDIVIDUALSUBROLE<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<dpim:DPIndividualSubRole xmlns:dpim="http://www.nationwide.com/mdm/dpim"
+	xsi:schemaLocation="http://www.nationwide.com/mdm/dpim dpindividualrole_pmxml.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<dpim:SubRoleSourceIdentifier>00000224:00000344</dpim:SubRoleSourceIdentifier>
+	<dpim:RelatedProducerOrganizationSubRoleLegacyId>00000224</dpim:RelatedProducerOrganizationSubRoleLegacyId>
+	<dpim:IndividualSubRoleAddresseeName>DEEDRE LOUISE ROMAN WILLIAMS</dpim:IndividualSubRoleAddresseeName>
+	<dpim:SubRoleStatusCode>Active</dpim:SubRoleStatusCode>
+	<dpim:SubRoleEffectiveStartDate>2017-06-26</dpim:SubRoleEffectiveStartDate>
+	<dpim:LegacyIdentifiers>
+		<dpim:LegacyIdentifier>
+			<dpim:LegacySystemIdentifierSourceCode>AMF</dpim:LegacySystemIdentifierSourceCode>
+			<dpim:LegacySystemIdentifier>0000022400000344</dpim:LegacySystemIdentifier>
+			<dpim:LegacySystemIdentifierTypeCode>Legacy Individual Role Number</dpim:LegacySystemIdentifierTypeCode>
+			<dpim:LegacySystemIdentifierMainSubRoleIndicator>Y</dpim:LegacySystemIdentifierMainSubRoleIndicator>
+		</dpim:LegacyIdentifier>
+	</dpim:LegacyIdentifiers>
+	<dpim:Names>
+		<dpim:Name>
+			<dpim:NameKey>AMF:00000224:00000344</dpim:NameKey>
+			<dpim:FirstName>DEEDRE</dpim:FirstName>
+			<dpim:MiddleName>LOUISE ROMAN</dpim:MiddleName>
+			<dpim:LastName>WILLIAMS</dpim:LastName>
+		</dpim:Name>
+	</dpim:Names>
+	<dpim:PostalAddresses>
+		<dpim:PostalAddress>
+			<dpim:DPAddressKey>AMF:00000224:00000344:Mailing</dpim:DPAddressKey>
+			<dpim:UsageTypeCode>Mailing</dpim:UsageTypeCode>
+			<dpim:AddressLine1>PO BOX AA</dpim:AddressLine1>
+			<dpim:AddressCity>PARKSTON</dpim:AddressCity>
+			<dpim:AddressStateOrProvince>SD</dpim:AddressStateOrProvince>
+			<dpim:PostalCode>573661227</dpim:PostalCode>
+		</dpim:PostalAddress>
+	</dpim:PostalAddresses>
+	<dpim:Phones>
+		<dpim:Phone>
+			<dpim:DPPhoneKey>AMF:00000224:00000344:Fax:2007/03/03 06:12:14.152839</dpim:DPPhoneKey>
+			<dpim:UsageTypeCode>Fax</dpim:UsageTypeCode>
+			<dpim:PhoneTypeCode>Unknown</dpim:PhoneTypeCode>
+			<dpim:FullPhoneNumber>8887444191</dpim:FullPhoneNumber>
+			<dpim:AreaCode>888</dpim:AreaCode>
+			<dpim:PhoneBody>7444191</dpim:PhoneBody>
+		</dpim:Phone>
+		<dpim:Phone>
+			<dpim:DPPhoneKey>AMF:00000224:00000344:Business Phone:2007/03/03
+				06:12:14.152839</dpim:DPPhoneKey>
+			<dpim:UsageTypeCode>Business Phone</dpim:UsageTypeCode>
+			<dpim:PhoneTypeCode>Unknown</dpim:PhoneTypeCode>
+			<dpim:FullPhoneNumber>6059287956</dpim:FullPhoneNumber>
+			<dpim:AreaCode>605</dpim:AreaCode>
+			<dpim:PhoneBody>9287956</dpim:PhoneBody>
+		</dpim:Phone>
+	</dpim:Phones>
+	<dpim:EmailAddresses>
+		<dpim:EmailAddress>
+			<dpim:DPEmailKey>AMF:00000224:00000344:Personal</dpim:DPEmailKey>
+			<dpim:UsageTypeCode>Personal Email Address</dpim:UsageTypeCode>
+			<dpim:EmailAddress>DEEDRE@PAYNEINSGROUP.COM</dpim:EmailAddress>
+		</dpim:EmailAddress>
+	</dpim:EmailAddresses>
+	<dpim:SubRolePostalAddresses>
+		<dpim:SubRolePostalAddress>
+			<dpim:SubRoleUsageTypeCode>Mailing</dpim:SubRoleUsageTypeCode>
+			<dpim:DPAddressKey>AMF:00000224:00000344:Mailing</dpim:DPAddressKey>
+		</dpim:SubRolePostalAddress>
+	</dpim:SubRolePostalAddresses>
+	<dpim:SubRoleEmailAddresses>
+		<dpim:SubRoleEmailAddress>
+			<dpim:SubRoleUsageTypeCode>Personal Email Address</dpim:SubRoleUsageTypeCode>
+			<dpim:DPEmailKey>AMF:00000224:00000344:Personal</dpim:DPEmailKey>
+		</dpim:SubRoleEmailAddress>
+	</dpim:SubRoleEmailAddresses>
+	<dpim:SubRoleNames>
+		<dpim:SubRoleName>
+			<dpim:SubRoleNameUsageTypeCode>Mailing Name</dpim:SubRoleNameUsageTypeCode>
+			<dpim:NameKey>AMF:00000224:00000344</dpim:NameKey>
+		</dpim:SubRoleName>
+	</dpim:SubRoleNames>
+</dpim:DPIndividualSubRole>
+AMFDPINDIVIDUALSUBROLE<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<dpim:DPIndividualSubRole xmlns:dpim="http://www.nationwide.com/mdm/dpim"
+	xsi:schemaLocation="http://www.nationwide.com/mdm/dpim dpindividualrole_pmxml.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<dpim:SubRoleSourceIdentifier>00000245:00000693</dpim:SubRoleSourceIdentifier>
+	<dpim:RelatedProducerOrganizationSubRoleLegacyId>00000245</dpim:RelatedProducerOrganizationSubRoleLegacyId>
+	<dpim:IndividualSubRoleAddresseeName>TRAVIS CHRISTIAN HODGES</dpim:IndividualSubRoleAddresseeName>
+	<dpim:SubRoleStatusCode>Active</dpim:SubRoleStatusCode>
+	<dpim:SubRoleEffectiveStartDate>2012-11-01</dpim:SubRoleEffectiveStartDate>
+	<dpim:LegacyIdentifiers>
+		<dpim:LegacyIdentifier>
+			<dpim:LegacySystemIdentifierSourceCode>AMF</dpim:LegacySystemIdentifierSourceCode>
+			<dpim:LegacySystemIdentifier>0000024500000693</dpim:LegacySystemIdentifier>
+			<dpim:LegacySystemIdentifierTypeCode>Legacy Individual Role Number</dpim:LegacySystemIdentifierTypeCode>
+			<dpim:LegacySystemIdentifierMainSubRoleIndicator>Y</dpim:LegacySystemIdentifierMainSubRoleIndicator>
+		</dpim:LegacyIdentifier>
+	</dpim:LegacyIdentifiers>
+	<dpim:Names>
+		<dpim:Name>
+			<dpim:NameKey>AMF:00000245:00000693</dpim:NameKey>
+			<dpim:FirstName>TRAVIS</dpim:FirstName>
+			<dpim:MiddleName>CHRISTIAN</dpim:MiddleName>
+			<dpim:LastName>HODGES</dpim:LastName>
+		</dpim:Name>
+	</dpim:Names>
+	<dpim:PostalAddresses>
+		<dpim:PostalAddress>
+			<dpim:DPAddressKey>AMF:00000245:00000693:Mailing</dpim:DPAddressKey>
+			<dpim:UsageTypeCode>Mailing</dpim:UsageTypeCode>
+			<dpim:AddressLine1>1120 S CAPITAL OF TEXAS HWY</dpim:AddressLine1>
+			<dpim:AddressCity>WEST LAKE HILLS</dpim:AddressCity>
+			<dpim:AddressStateOrProvince>TX</dpim:AddressStateOrProvince>
+			<dpim:PostalCode>787466464</dpim:PostalCode>
+		</dpim:PostalAddress>
+	</dpim:PostalAddresses>
+	<dpim:Phones>
+		<dpim:Phone>
+			<dpim:DPPhoneKey>AMF:00000245:00000693:Fax:2007/03/03 06:12:14.660239</dpim:DPPhoneKey>
+			<dpim:UsageTypeCode>Fax</dpim:UsageTypeCode>
+			<dpim:PhoneTypeCode>Unknown</dpim:PhoneTypeCode>
+			<dpim:FullPhoneNumber>5124447639</dpim:FullPhoneNumber>
+			<dpim:AreaCode>512</dpim:AreaCode>
+			<dpim:PhoneBody>4447639</dpim:PhoneBody>
+		</dpim:Phone>
+		<dpim:Phone>
+			<dpim:DPPhoneKey>AMF:00000245:00000693:Business Phone:2007/03/03
+				06:12:14.660239</dpim:DPPhoneKey>
+			<dpim:UsageTypeCode>Business Phone</dpim:UsageTypeCode>
+			<dpim:PhoneTypeCode>Unknown</dpim:PhoneTypeCode>
+			<dpim:FullPhoneNumber>5124444441</dpim:FullPhoneNumber>
+			<dpim:AreaCode>512</dpim:AreaCode>
+			<dpim:PhoneBody>4444441</dpim:PhoneBody>
+		</dpim:Phone>
+		<dpim:Phone>
+			<dpim:DPPhoneKey>AMF:00000245:00000693:Personal Phone:</dpim:DPPhoneKey>
+			<dpim:UsageTypeCode>Personal Phone</dpim:UsageTypeCode>
+			<dpim:PhoneTypeCode>Unknown</dpim:PhoneTypeCode>
+			<dpim:FullPhoneNumber>8004211444</dpim:FullPhoneNumber>
+			<dpim:AreaCode>800</dpim:AreaCode>
+			<dpim:PhoneBody>4211444</dpim:PhoneBody>
+		</dpim:Phone>
+	</dpim:Phones>
+	<dpim:EmailAddresses>
+		<dpim:EmailAddress>
+			<dpim:DPEmailKey>AMF:00000245:00000693:Personal</dpim:DPEmailKey>
+			<dpim:UsageTypeCode>Personal Email Address</dpim:UsageTypeCode>
+			<dpim:EmailAddress>NSSMAIL@nationwide.com</dpim:EmailAddress>
+		</dpim:EmailAddress>
+	</dpim:EmailAddresses>
+	<dpim:SubRolePostalAddresses>
+		<dpim:SubRolePostalAddress>
+			<dpim:SubRoleUsageTypeCode>Mailing</dpim:SubRoleUsageTypeCode>
+			<dpim:DPAddressKey>AMF:00000245:00000693:Mailing</dpim:DPAddressKey>
+		</dpim:SubRolePostalAddress>
+	</dpim:SubRolePostalAddresses>
+	<dpim:SubRoleEmailAddresses>
+		<dpim:SubRoleEmailAddress>
+			<dpim:SubRoleUsageTypeCode>Personal Email Address</dpim:SubRoleUsageTypeCode>
+			<dpim:DPEmailKey>AMF:00000245:00000693:Personal</dpim:DPEmailKey>
+		</dpim:SubRoleEmailAddress>
+	</dpim:SubRoleEmailAddresses>
+	<dpim:SubRoleNames>
+		<dpim:SubRoleName>
+			<dpim:SubRoleNameUsageTypeCode>Mailing Name</dpim:SubRoleNameUsageTypeCode>
+			<dpim:NameKey>AMF:00000245:00000693</dpim:NameKey>
+		</dpim:SubRoleName>
+	</dpim:SubRoleNames>
+</dpim:DPIndividualSubRole>
+AMFDPINDIVIDUALSUBROLE<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<dpim:DPIndividualSubRole xmlns:dpim="http://www.nationwide.com/mdm/dpim"
+	xsi:schemaLocation="http://www.nationwide.com/mdm/dpim dpindividualrole_pmxml.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<dpim:SubRoleSourceIdentifier>00000279:00000023</dpim:SubRoleSourceIdentifier>
+	<dpim:RelatedProducerOrganizationSubRoleLegacyId>00000279</dpim:RelatedProducerOrganizationSubRoleLegacyId>
+	<dpim:IndividualSubRoleAddresseeName>ANGELA L INGALLS</dpim:IndividualSubRoleAddresseeName>
+	<dpim:SubRoleStatusCode>Active</dpim:SubRoleStatusCode>
+	<dpim:SubRoleEffectiveStartDate>2010-05-07</dpim:SubRoleEffectiveStartDate>
+	<dpim:LegacyIdentifiers>
+		<dpim:LegacyIdentifier>
+			<dpim:LegacySystemIdentifierSourceCode>AMF</dpim:LegacySystemIdentifierSourceCode>
+			<dpim:LegacySystemIdentifier>0000027900000023</dpim:LegacySystemIdentifier>
+			<dpim:LegacySystemIdentifierTypeCode>Legacy Individual Role Number</dpim:LegacySystemIdentifierTypeCode>
+			<dpim:LegacySystemIdentifierMainSubRoleIndicator>Y</dpim:LegacySystemIdentifierMainSubRoleIndicator>
+		</dpim:LegacyIdentifier>
+	</dpim:LegacyIdentifiers>
+	<dpim:Names>
+		<dpim:Name>
+			<dpim:NameKey>AMF:00000279:00000023</dpim:NameKey>
+			<dpim:FirstName>ANGELA</dpim:FirstName>
+			<dpim:MiddleName>L</dpim:MiddleName>
+			<dpim:LastName>INGALLS</dpim:LastName>
+		</dpim:Name>
+	</dpim:Names>
+	<dpim:PostalAddresses>
+		<dpim:PostalAddress>
+			<dpim:DPAddressKey>AMF:00000279:00000023:Mailing</dpim:DPAddressKey>
+			<dpim:UsageTypeCode>Mailing</dpim:UsageTypeCode>
+			<dpim:AddressLine1>37 W BROAD ST</dpim:AddressLine1>
+			<dpim:AddressCity>COLUMBUS</dpim:AddressCity>
+			<dpim:AddressStateOrProvince>OH</dpim:AddressStateOrProvince>
+			<dpim:PostalCode>432154132</dpim:PostalCode>
+		</dpim:PostalAddress>
+	</dpim:PostalAddresses>
+	<dpim:Phones>
+		<dpim:Phone>
+			<dpim:DPPhoneKey>AMF:00000279:00000023:Fax:2009/12/16 13:59:14.324589</dpim:DPPhoneKey>
+			<dpim:UsageTypeCode>Fax</dpim:UsageTypeCode>
+			<dpim:PhoneTypeCode>Unknown</dpim:PhoneTypeCode>
+			<dpim:FullPhoneNumber>8774893994</dpim:FullPhoneNumber>
+			<dpim:AreaCode>877</dpim:AreaCode>
+			<dpim:PhoneBody>4893994</dpim:PhoneBody>
+		</dpim:Phone>
+		<dpim:Phone>
+			<dpim:DPPhoneKey>AMF:00000279:00000023:Business Phone:2009/12/16
+				13:59:14.324589</dpim:DPPhoneKey>
+			<dpim:UsageTypeCode>Business Phone</dpim:UsageTypeCode>
+			<dpim:PhoneTypeCode>Unknown</dpim:PhoneTypeCode>
+			<dpim:FullPhoneNumber>8882568241</dpim:FullPhoneNumber>
+			<dpim:AreaCode>888</dpim:AreaCode>
+			<dpim:PhoneBody>2568241</dpim:PhoneBody>
+		</dpim:Phone>
+	</dpim:Phones>
+	<dpim:EmailAddresses>
+		<dpim:EmailAddress>
+			<dpim:DPEmailKey>AMF:00000279:00000023:Personal</dpim:DPEmailKey>
+			<dpim:UsageTypeCode>Personal Email Address</dpim:UsageTypeCode>
+			<dpim:EmailAddress>ANGELA.INGALLS@HUNTINGTON.COM</dpim:EmailAddress>
+		</dpim:EmailAddress>
+	</dpim:EmailAddresses>
+	<dpim:SubRolePostalAddresses>
+		<dpim:SubRolePostalAddress>
+			<dpim:SubRoleUsageTypeCode>Mailing</dpim:SubRoleUsageTypeCode>
+			<dpim:DPAddressKey>AMF:00000279:00000023:Mailing</dpim:DPAddressKey>
+		</dpim:SubRolePostalAddress>
+	</dpim:SubRolePostalAddresses>
+	<dpim:SubRoleEmailAddresses>
+		<dpim:SubRoleEmailAddress>
+			<dpim:SubRoleUsageTypeCode>Personal Email Address</dpim:SubRoleUsageTypeCode>
+			<dpim:DPEmailKey>AMF:00000279:00000023:Personal</dpim:DPEmailKey>
+		</dpim:SubRoleEmailAddress>
+	</dpim:SubRoleEmailAddresses>
+	<dpim:SubRoleNames>
+		<dpim:SubRoleName>
+			<dpim:SubRoleNameUsageTypeCode>Mailing Name</dpim:SubRoleNameUsageTypeCode>
+			<dpim:NameKey>AMF:00000279:00000023</dpim:NameKey>
+		</dpim:SubRoleName>
+	</dpim:SubRoleNames>
+</dpim:DPIndividualSubRole>
