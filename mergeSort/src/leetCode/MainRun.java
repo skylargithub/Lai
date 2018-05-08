@@ -129,7 +129,7 @@ public class MainRun {
 		
 		
 		
-		String aa = new String("...");
+	/*	String aa = new String("...");
 		String bb = "...";
 		System.out.print(aa == bb);
 		
@@ -142,12 +142,23 @@ public class MainRun {
 		Class94 class94 = new Class94();
 		class94.inorderTraversal(root);*/
 	
-		Class451 class451 = new Class451();
+	/*	Class451 class451 = new Class451();
 		class451.frequencySort("Aabb");
 		
 		Class76 class76 = new Class76();
 		class76.minWindow("ab", "b");
+		
+		Class310 class310 = new Class310();
+		class310.findMinHeightTrees(3, new int[][]{{1, 0}, {0, 2}});  
+		
+		Class474 class474 = new Class474();
+		class474.findMaxForm(new String[]{"10","0","1"}, 1, 1); 
 	
+		Class231 class231 = new Class231();
+		System.out.print(class231.isPowerOfTwo(-4));  */
+		
+		Class816 class816 = new Class816();
+		class816.ambiguousCoordinates("(0123)");
 }
 	
 	
