@@ -1,0 +1,46 @@
+Use case:
+1. Reservation request has start date and number of guests.
+2. Assume all the requests will have duration of 2hrs.
+3. Assume we have enough waiter to pick up the call.
+4. If there no table available, reject request.
+5. If there is, provide table id.
+6. Simulate 24hrs reservation
+7. Cancel
+
+Reservation in -- check --- yes, update restaurant status
+							no, reject request
+							
+Main Object:
+Resaurtant
+Request
+Waiter(not needed)
+Table
+
+Table
+id;
+List of B
+size
+
+private boolean setIsBusy(int reservationTS) {
+	true - booked
+	false not available
+}
+
+private void cleanUp(int currentTS) {
+	clean up past date
+}
+
+private void cancel(int reservationTS) {
+}
+
+Request
+size
+startTime
+name
+phoneNumber
+
+Restaurant
+HashMap<name, table>
+HashMap<size, List<Table>>
+reserve(Request);
+cleanUp();

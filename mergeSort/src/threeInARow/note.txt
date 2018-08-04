@@ -1,0 +1,10 @@
+1. User1 put black
+2. win or not?
+3. User2 put white
+4. win or not?
+go on...
+
+1 Player
+no api or action
+2 Board
+2-D array 

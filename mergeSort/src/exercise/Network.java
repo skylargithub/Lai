@@ -1,11 +1,6 @@
 package exercise;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.List;
 
-// input List<Edges>
 public class Network {
 
 	public HashMap<Character, List<Character>> buildGraph(List<Edge> edges) {
