@@ -1,5 +1,6 @@
 package exercise;
 
+
 public class Network {
 
 	public HashMap<Character, List<Character>> buildGraph(List<Edge> edges) {

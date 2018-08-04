@@ -3,6 +3,13 @@
 import java.util.HashMap;
 
 public class Class76 {
+	
+	public static void main(String[] args) {
+		Class76 class76 = new Class76();
+		System.out.print(class76.minWindow("ab", "b"));
+	}
+	
+	
 
 	public String minWindow(String s, String t) {
         HashMap<Character, Integer> map = new HashMap<Character, Integer>();
