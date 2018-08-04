@@ -1,0 +1,33 @@
+1. Find a locker. Given address, list lockers
+2. Select locker and Send stuff to this address
+3. User can cancel request
+4. User can pick up parcel
+5. If user hasn't picked up package after three days since arrival, send package back and 
+notify user
+6. User uses 6 digits code to unlock the door
+
+Objects:
+
+Locker
+Capacity
+List<Item>
+Address 
+
+put(item);
+get(string code);
+isFull();
+sendBack(date);
+
+
+REQUEST
+item
+address
+contactNumb
+
+Item Enum
+
+AmazonLockerSystem
+
+Lockers
+findLocker(address)
+sendBack(date);
